@@ -2,7 +2,7 @@
 
 A Spring Boot REST API for creating events and tracking attendee check-ins via a unique, per-event code (designed to be shared/scanned as a QR code by a companion frontend).
 
-Live app frontend: `https://qr-event-system-theta.vercel.app`
+Live app frontend: https://qr-event-system-theta.vercel.app
 
 ## How It Works
 
